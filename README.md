@@ -31,14 +31,14 @@ in the end at last period i working on frameworks Flutter And Laravel to elevate
 
 <h3 align="left">let's get in touch :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thamarai-kannan-m-tk2408/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
-<a href="https://fb.com/banel.reshl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karem sd" height="30" width="40" /></a>
-<a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thamarai-kannan-m-tk2408/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamarai" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karem sd" height="30" width="40" /></a>
+<a href="https://www.instagram.com/clever_child___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thamarai" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=dart,flutter,bootstrap,html,css,vscode,git,js,postman,cs,mysql,github,gitlab,vscode,visualstudio,windows" 
 
  </p>
 
