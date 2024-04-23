@@ -6,7 +6,7 @@
 
 
 <div align="center" style="display: block;">
-    <img align="center" alt="GIF" src="my.gif" width="600" height="420" />
+    <img align="center" alt="GIF" src="my.gif" width="700" height="500" />
 </div>
 
 
