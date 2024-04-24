@@ -38,13 +38,13 @@ in the end at last period i working on frameworks Flutter And Laravel to elevate
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,bootstrap,html,css,vscode,git,js,postman,cs,mysql,github,gitlab,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=flutter,bootstrap,html,css,vscode,git,js,postman,cs,mysql,github,gitlab,vscode,visualstudio,windows" 
 
  </p>
 
 <hr>
 <div style="display: flex;">
-    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karemsd&show_icons=true&locale=en&layout=compact&theme=radical" alt="karemsd" /></p>
+    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karemsd&show_icons=true&locale=en&layout=compact&theme=radical" alt="thamarai" /></p>
     <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karemsd&show_icons=true&locale=en&theme=radical" alt="karemsd" /></p>
 </div>
 
