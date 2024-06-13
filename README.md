@@ -14,9 +14,12 @@
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
 
 
-**`Hi, I am Thamarai Kannan have Diploma of software engineer from Technical Computer College in Damascus university and in my second year of Information Technology Engineering at Syrian Virtual University 
-I am now at my third year of going into programming world and software engineering and in this journey I have discover many great concepts like OOP , solid principles , Generic with Abstract classes , Unit Testing and UML so I took all these concepts to do it with every language I work on such as Javascript 
-In my last experience on big project I noticed the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and Repository Pattern, 
+**`👋 Hello, I'm THAMARAI KANNAN, a dedicated and enthusiastic learner on a mission to become a proficient MERN Full Stack Developer. I've embarked on an exciting journey of self-improvement and exploration in the ever-evolving world of web development.
+
+🌐 My passion for crafting web solutions led me to dive deep into the MERN stack, where I'm mastering the art of building dynamic and responsive web applications. From front-end design with React to server-side scripting with Node.js, I'm committed to understanding the intricate workings of each component.
+
+🚀 My goal is to leverage my growing expertise to contribute meaningfully to the tech industry. I'm eagerly looking forward to the opportunity to collaborate with passionate teams and turn ideas into reality through elegant code and creative problem-solving.
+
 All that to get the best experience for my clients or the team that i work with in our software 
 in the end at last period i working on frameworks Flutter And Laravel to elevate my skills on both of them and tools such as Git and keep going In my journey of learning
 `**
