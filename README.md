@@ -11,10 +11,11 @@
 
 
 
-<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
+<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3>
 **`👋 Hello, I'm THAMARAI KANNAN, a dedicated and enthusiastic learner on a mission to become a proficient MERN Full Stack Developer. I've embarked on an exciting journey of self-improvement and exploration in the ever-evolving world of web development.
 🌐 My passion for crafting web solutions led me to dive deep into the MERN stack, where I'm mastering the art of building dynamic and responsive web applications. From front-end design with React to server-side scripting with Node.js, I'm committed to understanding the intricate workings of each component.
 `**
+  </summary>
 </details>
 <hr>
 - 🌱 I’m currently learning **Mern Stack Devloper**
@@ -32,7 +33,7 @@
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,bootstrap,html,css,vscode,git,js,postman,cs,mysql,github,gitlab,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,git,js,redux,react,postman,mysql,github,gitlab,vscode,visualstudio,ps,windows" 
 
  </p>
 
