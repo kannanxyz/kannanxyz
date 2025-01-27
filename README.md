@@ -44,7 +44,7 @@
 </div>
 
 ### GitHub Activity Graph :
-[![Thamarai's github activity graph](![image](https://github.com/kannanxyz/kannanxyz/assets/129540289/e7611beb-2cc4-4945-ad98-3eab6dfc5ba7)
+[![Thamarai's github activity graph](![image]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kannanxyz&bg_color=000000&color=ffffff&line=4c9e52&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 )
 
 
